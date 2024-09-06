@@ -75,10 +75,10 @@ Contributions to the project are welcome! Please follow these guidelines:
 
 For any inquiries or feedback, please contact:
 - **Email:** sjaferia@ur.rochester.edu
-- **GitHub:** [sohrabjaferian](https://github.com/sohrabjaferian)
+- **GitHub:** sohrabjaferian (https://github.com/sohrabjaferian)
 
 ## Acknowledgments
 
-- **Project Team:** [Sohrab Jaferian, Stephen Drury, Ozlem Gunes, Rishabh Kandoi]
-- **Advisors:** [Ajay Anand]
+- **Project Team:** Sohrab Jaferian, Stephen Drury, Ozlem Gunes, Rishabh Kandoi
+- **Advisors:** Ajay Anand
 - **Institution:** University of Rochester, Hajim School of Engineering & Applied Sciences" > README.md
