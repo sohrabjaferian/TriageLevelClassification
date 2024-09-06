@@ -70,15 +70,12 @@ Contributions to the project are welcome! Please follow these guidelines:
 - Make your modifications and ensure tests pass.
 - Submit a pull request with a detailed description of your changes.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
 For any inquiries or feedback, please contact:
-- **Email:** your-email@example.com
-- **GitHub:** [your-username](https://github.com/sohrabjaferian)
+- **Email:** sjaferia@ur.rochester.edu
+- **GitHub:** [sohrabjaferian](https://github.com/sohrabjaferian)
 
 ## Acknowledgments
 
