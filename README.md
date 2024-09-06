@@ -1,4 +1,4 @@
-echo "# Machine Learning Decision Support Tool for Trauma Activation Level
+# Machine Learning Decision Support Tool for Trauma Activation Level
 
 ## Overview
 
